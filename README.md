@@ -12,6 +12,12 @@ In order to enable MIDI communication between the Boss GT-100 and the Joyo Cab B
 
 Please follow the instructions in those guides to assemble the circuits, and then connect them to your Arduino UNO board.
 
+## Arduino MIDI Library Dependency
+
+This project depends on the Arduino MIDI Library:
+
+* <https://github.com/FortySevenEffects/arduino_midi_library>
+
 ## Getting Started
 
 Once you have set up the MIDI input and output circuits and connected your Boss GT-100 and Joyo Cab Box to the Arduino board, upload the provided Arduino sketch to your Arduino board.
@@ -43,6 +49,12 @@ O Boss GT-100 é um poderoso processador de efeitos de amplificador usado por gu
 Para habilitar a comunicação MIDI entre o Boss GT-100 e o Joyo Cab Box, será necessário configurar os circuitos de entrada e saída MIDI para a placa Arduino. Felizmente, existem guias detalhados disponíveis em [Notes and Volts](https://www.notesandvolts.com/2015/02/midi-and-arduino-build-midi-input.html) para montar o circuito de entrada MIDI e [aqui](https://www.notesandvolts.com/2015/03/midi-for-arduino-build-midi-output.html) para o circuito de saída MIDI.
 
 Siga as instruções nesses guias para montar os circuitos e conectá-los à sua placa Arduino UNO.
+
+## Dependência da biblioteca MIDI do Arduino
+
+Este projeto depende da biblioteca MIDI do Arduino:
+
+* <https://github.com/FortySevenEffects/arduino_midi_library>
 
 ## Como Começar
 
